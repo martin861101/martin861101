@@ -77,11 +77,17 @@
 # Featured Projects
 
 ## DELTA
-Decision Elicited Trace Architecture
+[Decision Elicited Trace Architecture](https://github.com/martin861101/DELTA-Decision-ELicited-Trace-Architecture)
 
-## LangGraph
-Agentic AI
+
+## SignalMe AI
+[Modern frontend dashboard with research & trading agents](https://github.com/martin861101/SignalMeAI)
 
 ## ARIA
-Agentic Coding Assistant CLI TUI WEB
+[Agentic Coding Agent CLI, Web & VSCode plugin](https://github.com/martin861101/agentic-coding-assistant_cli_tui_web)
+
+## ARIA TUI
+[Sophisticated vertion of ARIA (Memory/Learning/Reasoning/Planning](https://github.com/martin861101/Agentic-Coding-Assistant)
+
+
 
