@@ -20,18 +20,21 @@
 ### 🛠️ Tech Stack
 
 **Programming & Backend**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-6DB33F?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend & Design**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-F24E1E?style=for-the-badge&logo=vue&logoColor=white)
 
 **Databases & DevOps**
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,28 +69,10 @@
   <img src="https://leetcode-stats-card.vercel.app/?username=YOUR_LEETCODE_ID&theme=dark" alt="LeetCode Stats" />
 </div>
 
----
-
-### 📂 Featured Projects
-* **[span_6](start_span)[span_7](start_span)GlobalMart E-Commerce:** Full-stack app with Admin/Customer modules and Razorpay integration[span_6](end_span)[span_7](end_span)
-* **[span_8](start_span)MyPortfolio AI:** Personal portfolio featuring a custom AI assistant for recruiter interaction[span_8](end_span)
-* **[span_9](start_span)Financial Health Tool:** Assessment tool for financial tracking[span_9](end_span)
-* **[span_10](start_span)Hospital Management System:** JDBC-based system for managing appointments and patient records[span_10](end_span)
-
----
-
-### 🏆 Highlights
-- 🏆 **Dr. [span_11](start_span)Kalam Young Achiever Award**[span_11](end_span)
-- [span_12](start_span)🧩 **100+ LeetCode Problems Solved**[span_12](end_span)
-- [span_13](start_span)⚙️ **10+ REST APIs Developed**[span_13](end_span)
-- 🐍 **Snake Contribution:**
-  <br/>
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/martin861101/martin861101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=martin861101&color=blue" alt="Profile Views" />
 </div>
-
-Would you like me to help you write the GitHub Action script to get that "Contribution Snake" animation working?
