@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Martin Schoeman</h1>
   <h3>Full Stack Developer | AI Engineer | Automation Architect | Turning real world chaos into scalable intelligent systems</h3>
   <p>
-    <a href="https://martin861101.github.io/myPortfolio/">Portfolio</a> • 
+    <a href="https://app.hookitupservices.com/">Hustle</a> • 
     <a href="https://www.linkedin.com/in/martin-schoeman-776b92110">LinkedIn</a>
   </p>
 </div>
