@@ -38,12 +38,13 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-yellow?style=for-the-badge&logo=chromadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Open-source](https://img.shields.io/badge/OpenSource-white?style=for-the-badge&logo=linux&logoColor=green)
+![Open-source](https://img.shields.io/badge/OpenSource-green?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
