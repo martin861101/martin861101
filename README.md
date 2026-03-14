@@ -43,6 +43,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Open-source](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
