@@ -48,29 +48,16 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+  📊 GitHub & LeetCode Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=martin861101&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin861101&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin861101&theme=dracula" width="100%" alt="Contribution Graph" />
-
-  <br/>
+<div align="center"><table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=martin861101&show_icons=true&theme=dark&hide_border=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin861101&layout=compact&theme=dark&hide_border=true" /></td>
+</tr>
+</table><img src="https://github-readme-activity-graph.vercel.app/graph?username=martin861101&theme=github-dark" /><br/><img src="https://komarev.com/ghpvc/?username=martin861101&color=blue" /></div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=martin861101&color=blue" alt="Profile Views" />
-</div>
 
 # Featured Projects
 
